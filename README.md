@@ -1,4 +1,5 @@
-# Predictive-Analysis-for-Retail-Bank
+# MACHINE LEARNING IN RETAIL BANKING
+[![author](https://img.shields.io/badge/author-Raghav-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/raghav-arora-bb7a46115/)
 
 ### Objectives of Research
 Analytics is helping the banking industry become smarter in managing the myriad challenges.
