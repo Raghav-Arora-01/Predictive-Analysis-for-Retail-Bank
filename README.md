@@ -13,7 +13,8 @@ The data is related with direct marketing campaigns of a banking institution. Th
 The data-set is related with direct marketing campaigns (were based on phone calls) of a banking institution. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. The goal is to predict if the client will subscribe a term deposit.
 
 ### Graphs
- **ROC AUC CURVES**
+#### ROC AUC CURVES
+ 
 ![15](https://github.com/Raghav-Arora-01/Predictive-Analysis-for-Retail-Bank/blob/main/Images/15.PNG)
 ![14](https://github.com/Raghav-Arora-01/Predictive-Analysis-for-Retail-Bank/blob/main/Images/14.PNG)
 ![13](https://github.com/Raghav-Arora-01/Predictive-Analysis-for-Retail-Bank/blob/main/Images/13.PNG)
