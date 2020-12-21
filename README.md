@@ -14,9 +14,9 @@ The data-set is related with direct marketing campaigns (were based on phone cal
 
 ### Graphs
  **ROC AUC CURVES**
-(https://github.com/Raghav-Arora-01/Predictive-Analysis-for-Retail-Bank/blob/main/Images/15.PNG)
-(https://github.com/Raghav-Arora-01/Predictive-Analysis-for-Retail-Bank/blob/main/Images/14.PNG)
-(https://github.com/Raghav-Arora-01/Predictive-Analysis-for-Retail-Bank/blob/main/Images/13.PNG)
+![15](https://github.com/Raghav-Arora-01/Predictive-Analysis-for-Retail-Bank/blob/main/Images/15.PNG)
+![14](https://github.com/Raghav-Arora-01/Predictive-Analysis-for-Retail-Bank/blob/main/Images/14.PNG)
+![13](https://github.com/Raghav-Arora-01/Predictive-Analysis-for-Retail-Bank/blob/main/Images/13.PNG)
 
 ## Conclusion
 Most classification problems in the real world are imbalanced. Also, almost always data sets have missing values. In this post, we covered strategies to deal with both missing values and imbalanced data sets. We also explored different ways of building ensembles in sklearn. Below are some takeaway points:
